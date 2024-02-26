@@ -1,0 +1,23 @@
+#Pyhton Valid Variables
+1. my_variable
+2. userInput
+3. num_of_cats
+4. total_sales
+5. PI
+6. is_active
+7. first_name
+8. MAX_SIZE
+9. file_path
+10. student_grade
+
+#Python Invalid Variables
+2nd_variable 
+2. my variable 
+3. total-sales 
+4. if 
+5. @username
+6. my-variable 
+7. class 
+8. my.variable 
+9. 123variable 
+10. True 
